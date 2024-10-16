@@ -1,0 +1,6 @@
+comments are what we add to a program for documentation and readability
+compilers ignore comments
+end of line comments
+traditional comments
+Javadoc comments: Javadoc utility program: part of jdk
+

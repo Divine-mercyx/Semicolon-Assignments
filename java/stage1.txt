@@ -1,0 +1,10 @@
+stage1
+read the expression 3 + 4 + 7 + 9 + 10 / 2
+store it as sum
+display sum
+
+stage2
+read the expression 3 + 4 + 7 + 9 + 10 / 2
+create a variable called sum
+and assign the expression 3 + 4 + 7 + 9 + 10 / 2 to sum
+display sum

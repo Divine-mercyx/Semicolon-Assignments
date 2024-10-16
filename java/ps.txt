@@ -1,0 +1,26 @@
+stage1 
+prompt user to enter first number
+prompt user to enter second number
+prompt user to enter third number
+collect the numbers
+store the numbers
+calculate for the sum, average, product and the smallest and largest number
+
+stage2
+prompt user to enter first number
+collect the number
+store as number1
+prompt user to enter second number
+collect the number
+store as number2
+prompt user to enter third number
+collect the number
+store as number3
+calculate for the sum
+store the result as sum
+calculate for the average 
+store the result as average
+calculate for the product
+store the result as product
+check for the smallest and largest number
+display the sum, average, product and the smallest and largest number
